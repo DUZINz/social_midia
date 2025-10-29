@@ -155,5 +155,5 @@ PostingStrategy <|-- ScheduledStrategy
 ---
 
 ## ✍️ Autor
-**Eduardo Freitas**  
+**Eduardo Freitas Grunitzky**  
 Exercício prático de Engenharia de Software — Padrões *Adapter*, *Factory* e *Strategy* aplicados em Java.
